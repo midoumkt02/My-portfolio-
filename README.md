@@ -4,9 +4,9 @@
 
 An open-source Next.js portfolio template with a minimalist and modern aesthetic. Perfect for developers and designers looking to quickly build a professional personal website.
 
-- **What problem does this project solve?** (e.g., It helps developers quickly bootstrap a professional portfolio website.)
-- **Why did you build it?** (e.g., I wanted to practice my Next.js skills and create a useful template for the community.)
-- **Who is the target audience?** (e.g., Developers, designers, content creators.)
+- **What problem does this project solve?** ( It helps developers quickly bootstrap a professional portfolio website.)
+- **Why did you build it?** ( I wanted to practice my Next.js skills and create a useful template for the community.)
+- **Who is the target audience?** (Developers, designers, content creators.)
 
 [Link to Live Demo](https://coding-with-truong-portfolio-2.vercel.app/)
 
@@ -43,7 +43,7 @@ Follow these steps to set up and run the project locally.
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/huutruong2304/portfolio-2
+    git clone [https://github.com/huutruong2304/portfolio-2](https://github.com/midoumkt02/My-portfolio-)
     ```
 
 2.  **Navigate to the project directory:**
@@ -103,12 +103,11 @@ If you find this project helpful and would like to support me, consider buying m
 
 ## 📬 Contact
 
-Truong Nguyen - NGUYỄN HỮU TRƯỜNG
 
 I'm always looking for interesting people to collaborate with and new ideas to explore. Feel free to reach out!
 <br />
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:truongnh2711@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huutruong2304)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/truongnh9x/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Truongnh9x)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehdimeklat.pro@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/midoumkt02)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yacine02/)
+
