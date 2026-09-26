@@ -10,8 +10,8 @@ const AboutSection = () => {
     <TwoColSection id="about">
       <div className="flex justify-center md:justify-start items-center">
         <AvatarProfile
-          src="/images/user/avatar-placeholder.png"
-          alt="Mehdi Meklat placeholder avatar"
+          src="/images/user/mehdi-about.jpg"
+          alt="Mehdi Meklat"
         />
       </div>
       <div>
