@@ -79,6 +79,12 @@ export const PROJECTS: ProjectItem[] = [
     topics: ['ShowCase-Website'],
     category: 'Development',
   },
+  {
+    image: '/images/project/Frame 4.png  ',
+    title: 'Company secured network project',
+    topics: ['Network Security'],
+    category: 'Networking',
+  },
 ]
 
 export const TESTIMONIALS: Testimonial[] = []
