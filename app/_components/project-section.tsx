@@ -10,7 +10,10 @@ import React, { useState } from 'react'
 // type Props = {}
 
 const ProjectSection = () => {
-  const projectCategories = ['All', 'Development', 'Media Buying', 'Social Media']
+  const projectCategories = [
+  'All',
+  ...Array.from(new Set(PROJECTS.map((p) => p.category).filter(Boolean))),
+] as string[]
   const projectData = PROJECTS
   const [selectedCategory, setSelectedCategory] = useState('All')
 
