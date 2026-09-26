@@ -90,4 +90,4 @@ export const PROJECTS: ProjectItem[] = [
   },
 ]
 
-//export const TESTIMONIALS: Testimonial[] = []
+export const TESTIMONIALS: Testimonial[] = []
