@@ -80,7 +80,7 @@ export const PROJECTS: ProjectItem[] = [
     category: 'Development',
   },
   {
-    image: '/images/project/Frame 4.png  ',
+    image: '/images/project/Reseau-cisco.png',
     title: 'Company secured network project',
     topics: ['Network Security'],
     category: 'Networking',
