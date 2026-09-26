@@ -66,6 +66,7 @@ export const PROJECTS: ProjectItem[] = [
     title: 'Complete API & Cloud project',
     topics: ['Cloud', 'API', 'Software'],
     category: 'Development',
+    href: 'https://github.com/bizak0/api-gateway',
   },
   {
     image: '/images/project/Ecom-sys.png',
@@ -78,13 +79,15 @@ export const PROJECTS: ProjectItem[] = [
     title: 'Showcase website project ',
     topics: ['ShowCase-Website'],
     category: 'Development',
+    href: 'https://github.com/midoumkt02/Nova-Mobile-',
   },
   {
     image: '/images/project/Reseau-cisco.png',
     title: 'Company secured network project',
     topics: ['Network Security'],
     category: 'Networking',
+    href: 'https://github.com/midoumkt02/reseau-entreprise-securise-cisco',
   },
 ]
 
-export const TESTIMONIALS: Testimonial[] = []
+//export const TESTIMONIALS: Testimonial[] = []
